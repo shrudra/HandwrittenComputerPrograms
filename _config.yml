@@ -1,2 +1,14 @@
 markdown:   kramdown
 theme: minima
+
+# Site settings
+title: Handwritten Computer Programs 
+email: sakhawat@dpi.gov.bd
+url: https://github.com/sakhsain/sakhsain.github.io
+description: "A collection of handwritten program images"
+keywords: "images, handwritten"
+meta_author: Sakhawat Hossain 
+
+# URL of your favicon image (Use .ico file format for better quality)
+favicon: https://raw.githubusercontent.com/sakhsain/sakhsain.github.io/master/favicon.ico
+
