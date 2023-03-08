@@ -11,7 +11,7 @@
       {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
 
-       <a href="//images.weserv.nl/?url=sakhwat-hossain.com/HandwrittenComputerPrograms/{{ file.path }}&w=5000&h=5000&output=jpg"> <img src="//images.weserv.nl/?url=sakhwat-hossain.com/HandwrittenComputerPrograms/{{ file.path }}&w=1000&h=1000&output=jpg" alt="{{ filename }}" title="{{ filename }}" /> </a>
+       <a href="//images.weserv.nl/?url=sakhwat-hossain.com/HandwrittenComputerPrograms/{{ file.path }}&output=jpg"> <img src="//images.weserv.nl/?url=sakhwat-hossain.com/HandwrittenComputerPrograms/{{ file.path }}&output=jpg" alt="{{ filename }}" title="{{ filename }}" /> </a>
         
       
     {% endif %}
