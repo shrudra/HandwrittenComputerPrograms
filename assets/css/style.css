@@ -1,9 +1,9 @@
 body {
-  background-image: url("https://github.com/sakhsain/HandwrittenComputerPrograms/blob/0c35f3589bb66793965d5b5b0f728a40bbbf431c/assets/body.png");
+  background-color: #B07928;
   }
 
 h1 {
-  color: #DC143C;
+  color: #491A05;
   }
 
 .image-gallery {overflow: auto; margin-left: -1%!important;}
