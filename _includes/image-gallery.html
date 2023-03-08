@@ -4,7 +4,9 @@
   .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
   .image-gallery a img {width: 100%; display: block;}
 </style>
+
 <div class="image-gallery">
+<h1>A Collection of Handwritten Computer Programs Images</h1>
 
 {% for file in site.static_files %}
   {% if file.path contains include.folder %}
