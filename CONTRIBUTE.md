@@ -13,5 +13,5 @@ git clone https://github.com/shrudra/HandwrittenComputerPrograms.git
 
 ## Questions?
 
-[Open an Issue](https://github.com/shrudraHandwrittenComputerPrograms/issues/new) and let's chat!
+[Open an Issue](https://github.com/shrudra/HandwrittenComputerPrograms/issues/new) and let's chat!
 
