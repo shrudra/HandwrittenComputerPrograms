@@ -1,8 +1,5 @@
 <div class="container">
 
- 
-<div class="col-lg-3 col-md-4 col-6">
-
 {% for file in site.static_files %}
  {% if file.path contains include.folder %}
   {% if file.extname == '.jpg' or 
@@ -19,12 +16,7 @@
 
   {% endif %}
  {% endif %}
-{% endfor %}
-
-    
-  </div>
-
-    
+{% endfor %} 
 
 </div>
 
